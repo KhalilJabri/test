@@ -1,7 +1,4 @@
 admin:admin
-
 login: khalil
-
 password: 5fzf891ezfz
-
 mmmmmgr
